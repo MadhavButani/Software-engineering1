@@ -1,0 +1,11 @@
+Prescription Added:
+Prescription ID: 0
+First Name: Madhav
+Last Name: Butani
+Address: 456 Heatherton Road,Springvale South, 3172, Australia
+Sphere: -1.5
+Cylinder: -2.0
+Axis: 90.0
+Examination Date: 23/10/24
+Optometrist: Dr. Ronny
+-------------------------------
